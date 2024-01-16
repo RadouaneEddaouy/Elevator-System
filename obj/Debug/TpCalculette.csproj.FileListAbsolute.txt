@@ -1,0 +1,20 @@
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.exe.config
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.exe
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.pdb
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.Properties.Resources.resources
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.exe
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.pdb
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.frmCalculette.resources
+E:\C#\AFTER TEST\Elevator Project\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+E:\C#\AFTER TEST\Elevator Project\obj\Debug\TpCalculette.frmCalculette.resources
+E:\C#\AFTER TEST\Elevator Project\obj\Debug\TpCalculette.Properties.Resources.resources
+E:\C#\AFTER TEST\Elevator Project\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+E:\C#\AFTER TEST\Elevator Project\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+E:\C#\AFTER TEST\Elevator Project\obj\Debug\TpCalculette.exe
+E:\C#\AFTER TEST\Elevator Project\obj\Debug\TpCalculette.pdb
+E:\C#\AFTER TEST\Elevator Project\bin\Debug\TpCalculette.exe.config
+E:\C#\AFTER TEST\Elevator Project\bin\Debug\TpCalculette.exe
+E:\C#\AFTER TEST\Elevator Project\bin\Debug\TpCalculette.pdb
