@@ -2,9 +2,12 @@
 projet-RadouaneEddaouy created by GitHub Classroom
 # Diagrams for the Elevator :
 ### class diagram :
-![class diagram](https://github.com/GI-AGL/projet-RadouaneEddaouy/assets/148229328/3b7c6a95-4311-414e-86c0-541e1660f639)
+![class diag](https://github.com/RadouaneEddaouy/Elevator-System/assets/148229328/eaa27f32-ae6b-4507-8bc3-ea230a3c04df)
+
 ### Sequence diagram : 
-![sequence diagram](https://github.com/GI-AGL/projet-RadouaneEddaouy/assets/148229328/ecf23888-9984-4fab-ad51-ba39ff44f919)
+![seq diagram](https://github.com/RadouaneEddaouy/Elevator-System/assets/148229328/1f0be22e-8fa0-4af0-a541-3efa21bb027d)
+
 ### State transition diagram : 
-![state transition diagram](https://github.com/GI-AGL/projet-RadouaneEddaouy/assets/148229328/8531a3e8-8abf-440e-94ae-e7850c6a44bb)
+![state transition diag](https://github.com/RadouaneEddaouy/Elevator-System/assets/148229328/5a3278e7-b726-40b0-9d91-70800b7a409d)
+
 #### idle = initial state, where the elevator is not moving 
