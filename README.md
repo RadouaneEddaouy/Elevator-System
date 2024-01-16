@@ -1,6 +1,5 @@
 # projet-RadouaneEddaouy
-projet-RadouaneEddaouy created by GitHub Classroom
-# Diagrams for the Elevator :
+# Elevator System Diagrams :
 ### class diagram :
 ![class diag](https://github.com/RadouaneEddaouy/Elevator-System/assets/148229328/eaa27f32-ae6b-4507-8bc3-ea230a3c04df)
 
